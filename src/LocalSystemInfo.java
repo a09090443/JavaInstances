@@ -2,7 +2,7 @@ import java.util.Collection;
 import java.util.HashSet;
 import java.util.Arrays;
 
-public class Repeated {
+public class LocalSystemInfo {
 	public static void main(String[] args) {
 
 		Collection<String> listOne = Arrays.asList("milan", "iga", "dingo",
