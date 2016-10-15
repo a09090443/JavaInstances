@@ -134,5 +134,8 @@
 	<classpathentry kind="lib" path="lib/spymemcached-2.10.3.jar" sourcepath="/home/zipe/.m2/repository/net/spy/spymemcached/2.10.3/spymemcached-2.10.3-sources.jar"/>
 	<classpathentry kind="lib" path="lib/Memcached-Java-Client-2.6.1.jar"/>
 	<classpathentry kind="lib" path="lib/kryo-4.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/objenesis-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/minlog-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/kryo-shaded-4.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
