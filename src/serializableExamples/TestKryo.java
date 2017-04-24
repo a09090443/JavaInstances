@@ -52,6 +52,7 @@ public class TestKryo {
 			System.out.println(teacher);
 			input.close();
 		}
+		
 		time = System.currentTimeMillis() - time;
 		System.out.println("time:" + time);
 	}

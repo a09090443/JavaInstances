@@ -137,5 +137,7 @@
 	<classpathentry kind="lib" path="lib/objenesis-2.4.jar"/>
 	<classpathentry kind="lib" path="lib/minlog-1.2.jar"/>
 	<classpathentry kind="lib" path="lib/kryo-shaded-4.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-core.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
